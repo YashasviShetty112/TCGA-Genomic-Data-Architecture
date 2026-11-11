@@ -41,6 +41,8 @@ Loaded wide-format TCGA transcriptomic matrices containing gene expression value
 
 ## Dashboard Features (Power BI)
 
-# Gene Expression Matrix Heatmap: A visual matrix representing expression levels across various cancer types, identifying overexpressed and underexpressed biomarkers at a glance.
-# Average Expression Bar Chart: Quantifies mean expression values for top target genes across selected cohorts.
-# Dynamic Cancer Type Slicer: Allows interactive single- and multi-select filtering to update all visuals instantaneously.
+Gene Expression Matrix Heatmap: A visual matrix representing expression levels across various cancer types, identifying overexpressed and underexpressed biomarkers at a glance.
+
+Average Expression Bar Chart: Quantifies mean expression values for top target genes across selected cohorts.
+
+Dynamic Cancer Type Slicer: Allows interactive single- and multi-select filtering to update all visuals instantaneously.
